@@ -10,8 +10,7 @@
 
 ## Cautions
  Python3以上版本必须，否则无法import子文件夹的库  
- 桌面操作系统 ac_id='1'  
- Linux操作系统 ac_id='2'  
+ 若认证失败，考虑将ac_id更改为'1'或'2'中的另一个  
  ac_id错误将导致认证失败  
  请将IP修改为各自的认证网址  
  header与jQuery按需修改  
